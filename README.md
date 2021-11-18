@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello!
-  I'm a software enginner, currently working as Dev Full-Stack.
+  I'm a software engineer, currently working as Dev Full-Stack.
   I lost my old github account and this is my new account.
   99% of my code base is in private repositories in organizations on github, but now criated some public repositories with small packages, and want also create some small full-stack project to show my job
 </p>
