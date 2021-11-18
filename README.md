@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 My social medias: ⤵️
+  💌 My social media: ⤵️
 </p>
 
 <p align="left">
