@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> VS Code, Roboto3t, DBeaver, Insomnia, ClickUp, Altair, , Git, Github, Expo, AWS, Linux
+  💼 <strong>Tools:</strong> VS Code, Robo3t, DBeaver, Insomnia, ClickUp, Altair, Git, Github, Expo, AWS, Linux
 </p>
 
 <p align="left">
