@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://res.cloudinary.com/di260k1gr/image/upload/v1638654011/Screenshot_20211204_143357_ya64tm.png" max-width="960px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello!
