@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/di260k1gr/image/upload/v1638656628/code_r7brxo.png" max-width="400px" width="400px" min-width="400px" align="right" alt="Computador iuriCode">
+<img src="https://res.cloudinary.com/di260k1gr/image/upload/v1638658993/code_uszedq.png" max-width="400px" width="400px" min-width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello!
