@@ -15,6 +15,10 @@
   💼 <strong>Tools:</strong> VS Code, Robo3t, DBeaver, Insomnia, ClickUp, Altair, Git, Github, Expo, AWS, Linux
 </p>
 
+<a href="https://github.com/adrianlivr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianlivr&theme=dracula&show_icons=true" />
+</a>
+
 <p align="left">
   💌 My social media: ⤵️
 </p>
