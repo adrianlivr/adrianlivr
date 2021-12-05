@@ -16,7 +16,7 @@
 </p>
 
 <a href="https://github.com/adrianlivr">
-  <img width="430px" src="https://github-readme-stats.vercel.app/api?username=adrianlivr&theme=dracula&show_icons=true" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=adrianlivr&theme=dracula&show_icons=true" />
 </a>
 
 <p align="left">
