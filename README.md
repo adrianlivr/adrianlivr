@@ -8,18 +8,18 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> `Javascript`, TypeScript, NodeJS, ReactJS, GraphQL, TypeORM, NestJS, Docker, Styled-Components, DDD, Clean Arch, SOLID, XState, ApolloClient, Axios, Postgres, Mongo, Redis, NextJS, Redux, Jest, Github Actions
+  🦄 <strong>Skills:</strong> Javascript, TypeScript, NodeJS, ReactJS, GraphQL, TypeORM, NestJS, Docker, Styled-Components, DDD, Clean Arch, SOLID, XState, ApolloClient, Axios, Postgres, Mongo, Redis, NextJS, Redux, Jest, Github Actions
 </p>
 
 <p align="left">
   💼 <strong>Tools:</strong> VS Code, Robo3t, DBeaver, Insomnia, ClickUp, Altair, Git, Github, Expo, AWS, Linux
 </p>
 
-<div align="left" style="margin-bottom: 10px">
+<p align="left">
   <a href="https://github.com/adrianlivr">
     <img width="420px" src="https://github-readme-stats.vercel.app/api?username=adrianlivr&theme=dracula&show_icons=true" />
   </a>
-</div>
+</p>
  
 <p align="left">
   💌 My social media: ⤵️
